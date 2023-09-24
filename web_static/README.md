@@ -1,3 +1,0 @@
-
-Project badge
-AirBnB clone
